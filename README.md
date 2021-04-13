@@ -1,2 +1,2 @@
 # Angular
-Repositório para projetosd e testes com Angular
+Repositório para projetos e testes utilizando o Angular
